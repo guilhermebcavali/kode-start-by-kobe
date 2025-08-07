@@ -1,0 +1,46 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+
+# Android related
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+*.iml
+.gradle
+/local.properties
+
+# Xcode related
+ios/Pods/
+ios/Runner.xcworkspace
+ios/DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+
+# VS Code
+.vscode/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Runner.xcworkspace
+macos/build/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Others
+.idea/
+*.log
+*.lock
